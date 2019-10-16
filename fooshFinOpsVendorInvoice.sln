@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fooshFinOpsVendorInvoice", "fooshFinOpsVendorInvoice\fooshFinOpsVendorInvoice.csproj", "{30B31720-8A62-4F2C-BF12-7CF0F2E8C54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B31720-8A62-4F2C-BF12-7CF0F2E8C54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B31720-8A62-4F2C-BF12-7CF0F2E8C54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B31720-8A62-4F2C-BF12-7CF0F2E8C54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B31720-8A62-4F2C-BF12-7CF0F2E8C54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC17C52-52B4-4252-84BE-2C51B5AF45B9}
+	EndGlobalSection
+EndGlobal
